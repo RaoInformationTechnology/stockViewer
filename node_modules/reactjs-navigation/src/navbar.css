@@ -1,0 +1,46 @@
+.inactive::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    margin-top:2px;
+    background: #ddd;
+    transition: width .3s;
+    
+}
+
+.inactive{
+	display:inline-block;
+    color:white;
+    text-transform: capitalize;
+}
+
+.burger {
+    width: 25px;
+    height: 4px;
+    margin: 4px 0;
+    background: white !important;
+
+}
+.mainBurger{
+    padding:10px;
+    display: inline-block;
+}
+
+.desktop{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000000;
+}
+
+.mobile {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000000;
+}
+
+/*.nav_bar{
+    z-index: 100;
+}*/
