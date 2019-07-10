@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Stock-viewer/static/css/main.ab8bbb04.chunk.css",
-    "main.js": "/Stock-viewer/static/js/main.c3d3f613.chunk.js",
-    "main.js.map": "/Stock-viewer/static/js/main.c3d3f613.chunk.js.map",
-    "runtime~main.js": "/Stock-viewer/static/js/runtime~main.c8d0de04.js",
-    "runtime~main.js.map": "/Stock-viewer/static/js/runtime~main.c8d0de04.js.map",
-    "static/js/2.cb1a259c.chunk.js": "/Stock-viewer/static/js/2.cb1a259c.chunk.js",
-    "static/js/2.cb1a259c.chunk.js.map": "/Stock-viewer/static/js/2.cb1a259c.chunk.js.map",
-    "index.html": "/Stock-viewer/index.html",
-    "precache-manifest.be6dabb5acb0eada25f5aa1d999c4cb1.js": "/Stock-viewer/precache-manifest.be6dabb5acb0eada25f5aa1d999c4cb1.js",
-    "service-worker.js": "/Stock-viewer/service-worker.js",
-    "static/css/main.ab8bbb04.chunk.css.map": "/Stock-viewer/static/css/main.ab8bbb04.chunk.css.map",
-    "static/media/Company-list.css": "/Stock-viewer/static/media/bgimage.de08db18.jpg"
+    "main.css": "/static/css/main.420ef72b.chunk.css",
+    "main.js": "/static/js/main.138f818f.chunk.js",
+    "main.js.map": "/static/js/main.138f818f.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.44eadc4f.chunk.js": "/static/js/2.44eadc4f.chunk.js",
+    "static/js/2.44eadc4f.chunk.js.map": "/static/js/2.44eadc4f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b7ed67beff10deceb038cce18c281888.js": "/precache-manifest.b7ed67beff10deceb038cce18c281888.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.420ef72b.chunk.css.map": "/static/css/main.420ef72b.chunk.css.map",
+    "static/media/Company-list.css": "/static/media/bgimage.de08db18.jpg"
   }
 }
