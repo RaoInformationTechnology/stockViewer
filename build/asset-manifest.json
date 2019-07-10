@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Stock-viewer/static/css/main.ab8bbb04.chunk.css",
+    "main.js": "/Stock-viewer/static/js/main.c3d3f613.chunk.js",
+    "main.js.map": "/Stock-viewer/static/js/main.c3d3f613.chunk.js.map",
+    "runtime~main.js": "/Stock-viewer/static/js/runtime~main.c8d0de04.js",
+    "runtime~main.js.map": "/Stock-viewer/static/js/runtime~main.c8d0de04.js.map",
+    "static/js/2.cb1a259c.chunk.js": "/Stock-viewer/static/js/2.cb1a259c.chunk.js",
+    "static/js/2.cb1a259c.chunk.js.map": "/Stock-viewer/static/js/2.cb1a259c.chunk.js.map",
+    "index.html": "/Stock-viewer/index.html",
+    "precache-manifest.be6dabb5acb0eada25f5aa1d999c4cb1.js": "/Stock-viewer/precache-manifest.be6dabb5acb0eada25f5aa1d999c4cb1.js",
+    "service-worker.js": "/Stock-viewer/service-worker.js",
+    "static/css/main.ab8bbb04.chunk.css.map": "/Stock-viewer/static/css/main.ab8bbb04.chunk.css.map",
+    "static/media/Company-list.css": "/Stock-viewer/static/media/bgimage.de08db18.jpg"
+  }
+}
