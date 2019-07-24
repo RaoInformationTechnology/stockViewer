@@ -1,0 +1,51 @@
+.MuiFormControl-marginNormal {
+     margin-top: 5px!important;
+     width: 100%; 
+}
+.MuiButton-containedPrimary {
+    color: #fff;
+    background-color: #3f51b5;
+    width: 100%;
+}
+.MuiInputBase-root{
+	color: #3f50b5;
+}
+.MuiDivider-root {
+    margin: 25px 0 15px;
+}
+.MuiInputBase-input {
+    color: black!important;
+}
+/*custom class*/
+body *{
+	box-sizing: border-box;
+}
+.backgroung_class{
+	background-image: url(bgimage.jpg);
+	height: 100vh;
+	background-size: cover;
+	padding: 20px 0px;
+}
+.main_class{
+	width: 500px;
+    margin: auto;
+    background-color: #faf7f7c9;
+    border-radius: 20px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    position: absolute;
+    padding: 70px 30px;
+    display: table;
+    max-width: calc(100% - 30px);
+    
+}
+.text-center{
+	text-align: center;
+	margin: 20px auto;
+}
+
+@media (max-width: 575px){
+	.main_class{width: auto; padding: 25px;}
+}

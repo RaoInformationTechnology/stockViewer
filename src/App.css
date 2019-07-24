@@ -1,0 +1,25 @@
+body *{
+	box-sizing: border-box;
+}
+::placeholder{
+	color: white;
+}
+.header_class{
+	text-align: center;
+}
+.header_class span{
+	font-size: 44px;
+	margin-bottom: 20px;
+}
+.search{
+	width: 400px;
+    margin: 70px auto 5px auto;
+    text-align: center;
+    border-radius: 50px;
+    box-shadow: 1px 1px 10px 0px #979595;
+    padding: 15px;
+}
+
+.MuiInputBase-input{
+	color: black!important;
+}
